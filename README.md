@@ -7,7 +7,7 @@
 **Centralisez et sécurisez vos connexions SSH depuis une interface simple et rapide.**
 
 ![Version](https://img.shields.io/github/v/release/AKR-Corp/AKR-SecureShell?label=version&include_prereleases&color=orange)
-![Platform](https://img.shields.io/badge/plateforme-Windows-blue)
+![Platform](https://img.shields.io/badge/plateforme-Windows%20%7C%20macOS-blue)
 ![Gratuit](https://img.shields.io/badge/prix-Gratuit-brightgreen)
 [![Site officiel](https://img.shields.io/badge/site-corp.akra13.fr-6e40c9)](https://corp.akra13.fr/softs/SecureShell/fr/)
 
@@ -23,22 +23,51 @@
 
 ## ✨ À propos
 
-Gérez vos serveurs à distance en toute simplicité avec AKR SecureShell, l'utilitaire performant pour centraliser et sécuriser vos **connexions SSH**. Accédez à toutes vos machines d'**un seul clic** grâce à une interface épurée et réactive.
+Gérez vos serveurs à distance en toute simplicité avec AKR SecureShell, l'utilitaire performant pour centraliser et sécuriser vos **connexions SSH**, sur **Windows** et **macOS**. Accédez à toutes vos machines d'**un seul clic** grâce à une interface épurée et réactive.
 
 ## 🚀 Fonctionnalités
 
 - **Gestionnaire de profils :** enregistrement sécurisé de vos multiples serveurs.
 - **Connexion rapide :** ouverture de la console en un seul clic.
-- **Support multi-plateforme :** compatibilité étendue avec Linux et autres systèmes SSH.
+- **Support multi-plateforme :** disponible sur Windows et macOS, avec une compatibilité étendue avec Linux et autres systèmes SSH.
 - **Raccourcis clavier complets :** intégration des commandes standards des terminaux shell.
 - **Console optimisée :** interface fluide pour une saisie de commandes sans latence.
 
 ## 📥 Téléchargement
 
-👉 **[Télécharger AKR SecureShell](https://dl.akra13.fr/AKRSecureShell)** — 100% gratuit
+AKR SecureShell est disponible sur **deux plateformes**, 100 % gratuit :
 
-Retrouvez toutes les informations et le détail des fonctionnalités sur la page officielle du logiciel :
-**[corp.akra13.fr/softs/SecureShell](https://corp.akra13.fr/softs/SecureShell/fr/)**
+<div align="center">
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🖥️ Sur Windows
+
+👉 **[Télécharger AKR SecureShell pour Windows](https://dl.akra13.fr/AKRSecureShell)**
+
+100 % gratuit.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 💻 Sur macOS
+
+👉 **[Télécharger AKR SecureShell pour macOS](https://dl.akra13.fr/SecureShellMacOS)**
+
+100 % gratuit.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+Retrouvez toutes les informations et le détail des fonctionnalités sur les pages officielles du logiciel :
+
+- 🖥️ Windows — **[corp.akra13.fr/softs/SecureShell](https://corp.akra13.fr/softs/SecureShell/fr/)**
+- 💻 macOS — **[corp.akra13.fr/softs/SecureShellMacOS](https://corp.akra13.fr/softs/SecureShellMacOS/fr/)**
 
 ## ℹ️ À propos d'AKR Corp
 
